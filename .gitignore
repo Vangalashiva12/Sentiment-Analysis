@@ -1,0 +1,7 @@
+.idea/
+# Ignore virtual environments
+.venv/
+venv/
+*.pyc
+__pycache__/
+mysite/.venv39/
